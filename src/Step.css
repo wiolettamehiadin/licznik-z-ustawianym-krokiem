@@ -1,0 +1,9 @@
+.steps h3 {
+    color: blue;
+    display: inline;
+}
+
+.steps input {
+    width: 70px;
+    margin: 10px;
+}
